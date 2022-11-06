@@ -18,4 +18,4 @@ So far, the essential part of the platform is almost finished - The ACT Online T
  - [Google Apps Script](https://developers.google.com/apps-script) + [Google Forms](https://www.google.com/forms/) (used externally for tests addition)
 
 
-### [Wanna give a helping hand 🥰](mailto:mikhael.stem@gmail.com)
+### [Wanna give a helping hand 🤝](mailto:mikhael.stem@gmail.com)
