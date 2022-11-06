@@ -14,6 +14,7 @@ So far, the essential part of the platform is almost finished - The ACT Online T
  - [JSON Server](https://github.com/jesperorb/json-server-heroku)
  - [cookie.js](https://github.com/florian/cookie.js)
  - [Glitch](https://glitch.com/) (used to serve tests data files for the platform)
+ - [ImgBB](https://imgbb.com/) (used to serve images files for the platform)
  - [Google Apps Script](https://developers.google.com/apps-script) + [Google Forms](https://www.google.com/forms/) (used externally for tests addition)
 
 ### [Wanna give a helping hand 🤝](mailto:mikhael.stem@gmail.com)
