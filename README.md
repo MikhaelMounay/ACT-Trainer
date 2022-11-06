@@ -5,7 +5,7 @@ So far, the essential part of the platform is almost finished - The ACT Online T
 
 🔴 *We are still working on adding tests to the platform from various sources on the internet.*
 
-<br/>
+
 ## Used Techs / Services
 (beyond basic HTML/CSS/JS)
  - [Vue JS 3](https://vuejs.org/) & [Vue CLI 5](https://cli.vuejs.org/)
@@ -17,5 +17,5 @@ So far, the essential part of the platform is almost finished - The ACT Online T
  - [Glitch](https://glitch.com/) (used to serve tests data files for the platform)
  - [Google Apps Script](https://developers.google.com/apps-script) + [Google Forms](https://www.google.com/forms/) (used externally for tests addition)
 
-<br/>
+
 ### [Wanna give a helping hand 🤝](mailto:mikhael.stem@gmail.com)
