@@ -6,7 +6,7 @@ So far, the essential part of the platform is almost finished - The ACT Online T
 🔴 *We are still working on adding tests to the platform from various sources on the internet.*
 
 ## Used Techs / Services
-(beyond basic HTML/CSS/JS)
+(besides basic HTML/CSS/JS)
  - [Vue JS 3](https://vuejs.org/) & [Vue CLI 5](https://cli.vuejs.org/)
  - [Sass](https://sass-lang.com/)
  - [Bootstrap 5](https://getbootstrap.com/)
