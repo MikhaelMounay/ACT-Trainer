@@ -10,7 +10,7 @@ So far, the essential part of the platform is almost finished - The ACT Online T
  - [Vue JS 3](https://vuejs.org/) & [Vue CLI 5](https://cli.vuejs.org/)
  - [Sass](https://sass-lang.com/)
  - [Bootstrap 5](https://getbootstrap.com/)
- - [MathJax](https://www.mathjax.org/) & [MathJax-Vue](https://github.com/hansonGong/mathjax-vue)
+ - [MathJax 3](https://www.mathjax.org/) & [MathJax-Vue](https://github.com/hansonGong/mathjax-vue)
  - [JSON Server](https://github.com/jesperorb/json-server-heroku)
  - [cookie.js](https://github.com/florian/cookie.js)
  - [Glitch](https://glitch.com/) (used to serve tests data files for the platform)
