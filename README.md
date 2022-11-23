@@ -68,6 +68,6 @@ So far, the essential part of the platform is almost finished - The ACT Online T
  - [![cookie.js](https://img.shields.io/badge/-cookie.js-1C9AD6?logoColor=white&style=flat-square)](https://github.com/florian/cookie.js)
  - [![Glitch](https://img.shields.io/badge/-Glitch-3333FF?logo=Glitch&logoColor=white&style=flat-square)](https://glitch.com/) *(used to serve tests data files for the platform)*
  - [![ImgBB](https://img.shields.io/badge/-ImgBB-1C9AD6?&logoColor=white&style=flat-square)](https://imgbb.com/) *(used to serve images files for the platform)*
- - [![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=Google&logoColor=white&style=flat-square)](https://developers.google.com/apps-script) + [![Google Forms](https://img.shields.io/badge/-Google%20Drive-4285F4?logo=Google%20Drive&logoColor=white&style=flat-square)](https://www.google.com/forms/) *(used externally for tests addition)*
+ - [![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=Google&logoColor=white&style=flat-square)](https://developers.google.com/apps-script) + [![Google Forms](https://img.shields.io/badge/-Google%20Forms-4285F4?logo=Google%20Drive&logoColor=white&style=flat-square)](https://www.google.com/forms/) *(used externally for tests addition)*
 
 ### [Wanna give a helping hand 🤝](mailto:mikhael.stem@gmail.com)
