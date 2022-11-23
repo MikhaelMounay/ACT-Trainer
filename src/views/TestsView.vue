@@ -10,7 +10,7 @@
           {{ index }}. <test-info :TestId="test.TESTID" />
         </p>
         <p class="small text-muted">
-          {{ test.TESTDATE }} (Added on: {{ test.DATEADDED }})
+          {{ test.TESTDATE }} (Added in: {{ test.DATEADDED }})
         </p>
       </div>
     </div>

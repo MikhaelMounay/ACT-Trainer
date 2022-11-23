@@ -176,6 +176,15 @@ export default {
     width: 100%;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    // new
+    font-size: 1.05rem;
+    letter-spacing: 0.5px;
+    width: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    @media (max-width: 991.98px) {
+      width: 100%;
+    }
     svg {
       fill: hsla(354, 70%, 54%, 0.85);
       margin-top: 0.2rem;
