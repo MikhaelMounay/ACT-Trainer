@@ -63,7 +63,7 @@ So far, the essential part of the platform is almost finished - The ACT Online T
  - [![Vue JS 3](https://img.shields.io/badge/-Vue.js%205-4FC08D?logo=Vue.js&logoColor=white&style=flat-square)](https://vuejs.org/)  [![Vue CLI 5](https://img.shields.io/badge/-Vue%20CLI%205-4FC08D?logo=Vue.js&logoColor=white&style=flat-square)](https://cli.vuejs.org/)
  - [![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat-square)](https://sass-lang.com/)
  - [![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat-square)](https://getbootstrap.com/)
- - [![MathJax 3](https://img.shields.io/badge/-MathJax-7952B3&logoColor=white&style=flat-square)](https://www.mathjax.org/) & [![MathJax-Vue](https://img.shields.io/badge/-MathJax%20Vue-7952B3&logoColor=white&style=flat-square)](https://github.com/hansonGong/mathjax-vue)
+ - [![MathJax 3](https://img.shields.io/badge/-MathJax-0C9D58?&logoColor=white&style=flat-square)](https://www.mathjax.org/) & [![MathJax-Vue](https://img.shields.io/badge/-MathJax%20Vue-0C9D58?&logoColor=white&style=flat-square)](https://github.com/hansonGong/mathjax-vue)
  - [JSON Server](https://github.com/jesperorb/json-server-heroku)
  - [![cookie.js](https://img.shields.io/badge/-cookie.js-1C9AD6?&logoColor=white&style=flat-square)](https://github.com/florian/cookie.js)
  - [![Glitch](https://img.shields.io/badge/-Glitch-3333FF?logo=Glitch&logoColor=white&style=flat-square)](https://glitch.com/) (used to serve tests data files for the platform)
